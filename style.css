@@ -7,8 +7,7 @@
 
 @font-face {
     font-family: "Mostwasted";
-/*     src: local("Mostwasted"), url("fonts/Mostwasted.ttf"); */
-    src: url('#{resource["css:fonts/Mostwasted.ttf"]}');
+    src: url(fonts/Mostwasted.ttf);
   }
 
 
